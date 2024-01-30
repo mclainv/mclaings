@@ -13,13 +13,6 @@ assignments = {
       "dueDate": "2024-01-26T23:59:00",
       "link": "https://www.gradescope.com/courses/719878",
       "submitted": false
-    },
-    {
-      "title": "Quiz 2 - Sections 4-7",
-      "course": "SP24_MATH-UA_120_1_002",
-      "dueDate": "2024-09-19T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
     }
   ]
 };

@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2024-02-16T23:00:00",
       "link": "https://www.gradescope.com/courses/719878/assignments/4107723/submissions/231595324",
       "submitted": true
+    },
+    {
+      "title": "Problem Set 3",
+      "course": "SP24_MATH-UA_120_1_002",
+      "dueDate": "2024-02-23T23:00:00",
+      "link": "https://www.gradescope.com/courses/719878",
+      "submitted": false
     }
   ]
 };

@@ -53,15 +53,15 @@ assignments = {
       "title": "Problem Set 3",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-02-23T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4121758/submissions/233747775",
+      "submitted": true
     },
     {
       "title": "Quiz 5 - Sections 14-16",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-02-23T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878/assignments/4141862/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4141862/submissions/233750212",
+      "submitted": true
     }
   ]
 };

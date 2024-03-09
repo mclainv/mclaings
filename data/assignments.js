@@ -81,8 +81,8 @@ assignments = {
       "title": "Polished Proof 1 - Final Draft",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-03-08T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4175556/submissions/237827798",
+      "submitted": true
     },
     {
       "title": "Quiz 7 - Sections 20-21",

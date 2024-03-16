@@ -102,7 +102,7 @@ assignments = {
       "title": "Quiz 8 - Sections 22",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-03-15T23:58:00",
-      "link": "https://www.gradescope.com/courses/719878/assignments/4232646/submissions/new",
+      "link": "https://www.gradescope.com/courses/719878",
       "submitted": false
     }
   ]

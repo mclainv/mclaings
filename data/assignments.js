@@ -111,6 +111,13 @@ assignments = {
       "dueDate": "2024-03-29T23:00:00",
       "link": "https://www.gradescope.com/courses/719878",
       "submitted": false
+    },
+    {
+      "title": "Quiz 9 - Sections 24, 26",
+      "course": "SP24_MATH-UA_120_1_002",
+      "dueDate": "2024-11-07T23:00:00",
+      "link": "https://www.gradescope.com/courses/719878",
+      "submitted": false
     }
   ]
 };

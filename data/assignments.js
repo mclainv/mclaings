@@ -113,6 +113,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Problem Set 6",
+      "course": "SP24_MATH-UA_120_1_002",
+      "dueDate": "2024-04-05T23:00:00",
+      "link": "https://www.gradescope.com/courses/719878",
+      "submitted": false
+    },
+    {
       "title": "Quiz 9 - Sections 24, 26",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-01T23:00:00",

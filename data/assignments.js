@@ -113,6 +113,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Polished Proof 2 - Final Draft",
+      "course": "SP24_MATH-UA_120_1_002",
+      "dueDate": "2024-04-12T23:00:00",
+      "link": "https://www.gradescope.com/courses/719878",
+      "submitted": false
+    },
+    {
       "title": "Problem Set 6",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-05T23:00:00",

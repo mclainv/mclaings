@@ -116,8 +116,8 @@ assignments = {
       "title": "Problem Set 6",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-05T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4293174/submissions/244501792",
+      "submitted": true
     },
     {
       "title": "Quiz 9 - Sections 24, 26",
@@ -130,8 +130,8 @@ assignments = {
       "title": "Quiz 10 - Sections 25, 30-31",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-05T23:50:00",
-      "link": "https://www.gradescope.com/courses/719878/assignments/4317932/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4317932/submissions/244502139",
+      "submitted": true
     }
   ]
 };

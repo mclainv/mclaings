@@ -144,8 +144,8 @@ assignments = {
       "title": "Quiz 11 - Section 30-34",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/719878/assignments/4349058/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4349058/submissions/246264310",
+      "submitted": true
     }
   ]
 };

@@ -150,7 +150,7 @@ assignments = {
     {
       "title": "Problem Set 7",
       "course": "SP24_MATH-UA_120_1_002",
-      "dueDate": "2024-04-19T23:00:00",
+      "dueDate": "2024-04-14T16:57:00",
       "link": "https://www.gradescope.com/courses/719878",
       "submitted": false
     },

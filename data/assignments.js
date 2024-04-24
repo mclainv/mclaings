@@ -151,8 +151,8 @@ assignments = {
       "title": "Problem Set 7",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-14T16:57:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4354793/submissions/249358724",
+      "submitted": true
     },
     {
       "title": "Quiz 12 - Sections 35, 36",

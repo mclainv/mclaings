@@ -172,8 +172,8 @@ assignments = {
       "title": "Quiz 13 - Sections 47, 48",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/719878/assignments/4410487/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4410487/submissions/250427873",
+      "submitted": true
     }
   ]
 };

@@ -165,8 +165,8 @@ assignments = {
       "title": "Problem Set 8",
       "course": "SP24_MATH-UA_120_1_002",
       "dueDate": "2024-04-26T23:00:00",
-      "link": "https://www.gradescope.com/courses/719878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/719878/assignments/4384325/submissions/250435528",
+      "submitted": true
     },
     {
       "title": "Quiz 13 - Sections 47, 48",
